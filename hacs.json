@@ -1,0 +1,7 @@
+{
+  "name": "Primsesl Icons",
+  "filename": "aqua_icons.js",
+  "render_readme": true,
+  "country": ["RU"],
+  "homeassistant": "0.110.0"
+}
