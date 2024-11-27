@@ -10,13 +10,7 @@ async function getIcon(name) {
 }
 
 async function getIconList() {
-  return Object.keys(ICONS).map(icon => ({name: icon})).sort().reduce(
-  (obj, key) => { 
-    obj[key] = ICONS[key]; 
-    return obj;
-  }, 
-  {}
-);
+  return Object.keys(ICONS).map(icon => ({name: icon}));
 }
 
 if (!window.frontendVersion || window.frontendVersion <= 20211027.0){
