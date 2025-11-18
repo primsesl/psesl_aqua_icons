@@ -4,4 +4,4 @@
 
 | Иконка                                                                                                                                             | Имя             |
 | :------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------- |
-| ![Water_Sci](https://raw.githubusercontent.com/primsesl/psesl_aqua_icons/0b0254ee165bdefd6c3a0b88292f0f1ae4a7034f/svg/Water_Sci24.svg 'Water_Sci') | psesl:Water_Sci |
+| ![Water_Sci](https://raw.githubusercontent.com/primsesl/psesl_aqua_icons/e0e84c5f7e824e3bb318371d03eabe498347a9f3/svg/Water_Sci24.svg 'Water_Sci') | psesl:Water_Sci |
